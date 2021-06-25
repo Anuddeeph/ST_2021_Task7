@@ -1,4 +1,4 @@
-# ST_2021_Task7
+# ST_2021_Task7.1
 # Linux-webapp
 <h2>Yes, you heard it right it's using your linux commands through a web-app</h2>
 <p>You can run any command using of your linux </p>
